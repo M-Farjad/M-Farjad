@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Farjad Waseem</h1>
-<h3 align="center">Flutter developer | MLSA | Project Manager</h3>
+<p align="center">
+  <a href="https://github.com/thenumanahmed"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Flutter+Developer;Microsoft+Learn+Student+Ambassador(MLSA);Software+Engineering+Student;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
+<br>
 
 
 
