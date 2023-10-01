@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/thenumanahmed"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Flutter+Developer;Microsoft+Learn+Student+Ambassador(MLSA);Software+Engineering+Student;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
 <br>
-
-
+  
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/farjad71879189" target="blank"><img src="https://img.shields.io/twitter/follow/farjad71879189?logo=twitter&style=for-the-badge" alt="farjad71879189" /></a> </p>
 
