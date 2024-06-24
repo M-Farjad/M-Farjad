@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **fw.farjad.waseem@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RsvNcFFI-fNBFjb3ETR4RbCYH2Tkh8xr/view?usp=sharing](https://drive.google.com/file/d/1RsvNcFFI-fNBFjb3ETR4RbCYH2Tkh8xr/view?usp=sharing)
+- 📄 Know about my experiences [my resume](https://stdntpartners-my.sharepoint.com/:f:/g/personal/farjad_waseem_studentambassadors_com/EoV0SpQQ0npGs9OngsFcBrkBIvu0CHeBrs10FbIrYPv-UQ?e=9ckXxD)
 
 - ⚡ Fun fact **I like to talk about movies and TV series a lot**
 
